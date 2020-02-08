@@ -31,7 +31,7 @@ const Home = () => {
         <h1>Olá, sou Esdras Caetano.</h1>
         <span>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estudo
         JavaScript e React. Eu principalmente
-        desenvolvo front-end e sou um apaixonado por teconogia, em especial React.js e CSS.
+        desenvolvo front-end e sou um apaixonado por tecnologia, em especial React.js e CSS.
         Todos os meus projetos se encontram no Github.
         Também pretendo criar um blog para compartilhar aprendizado e experiência que venha
         adquirir ao longo da carreira.
